@@ -152,5 +152,10 @@
       "decimals": 18,
       "logoURI": "https://1inch.exchange/assets/tokens/0xd533a949740bb3306d119cc777fa900ba034cd52.png"
     }
-  ]
+  ],
+  "version": {
+    "major": 0,
+    "minor": 1,
+    "patch": 0
+  }
 }
