@@ -1,12 +1,12 @@
 {
-  "name": "Chef Nomi's Menu",
+  "name": "SushiSwap Menu",
   "timestamp": "2020-09-01T00:00:00+00:00",
   "version": {
     "major": 1,
     "minor": 0,
     "patch": 0
   },
-  "logoURI": "https://raw.githubusercontent.com/sushiswapclassic/token-list/master/assets/nomi.png",
+  "logoURI": "https://raw.githubusercontent.com/sushiswapclassic/token-list/master/assets/SUSHI.png",
   "keywords": ["nomichef", "default", "list"],
   "tokens": [
     {
