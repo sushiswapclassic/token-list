@@ -6,7 +6,7 @@
     "minor": 0,
     "patch": 0
   },
-  "logoURI": "https://exchange.sushiswap.org/nomi.png",
+  "logoURI": "https://raw.githubusercontent.com/sushiswapclassic/token-list/master/assets/nomi.png",
   "keywords": ["nomichef", "default", "list"],
   "tokens": [
     {
@@ -15,7 +15,7 @@
       "name": "SushiSwap",
       "symbol": "SUSHI",
       "decimals": 18,
-      "logoURI": "https://exchange.sushiswap.org/images/tokens/SUSHI.png"
+      "logoURI": "https://raw.githubusercontent.com/sushiswapclassic/token-list/master/assets/SUSHI.png"
     },
     {
       "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
@@ -128,14 +128,6 @@
       "symbol": "REN",
       "decimals": 18,
       "logoURI": "https://1inch.exchange/assets/tokens/0x408e41876cccdc0f92210600ef50372656052a38.png"
-    },
-    {
-      "address": "0x68A118Ef45063051Eac49c7e647CE5Ace48a68a5",
-      "chainId": 1,
-      "name": "BASED",
-      "symbol": "BASED",
-      "decimals": 18,
-      "logoURI": "https://1inch.exchange/assets/tokens/0x68a118ef45063051eac49c7e647ce5ace48a68a5.png"
     },
     {
       "address": "0x476c5E26a75bd202a9683ffD34359C0CC15be0fF",
