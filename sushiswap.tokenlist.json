@@ -167,6 +167,22 @@
       "symbol": "xSUSHI",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/sushiswapclassic/token-list/master/assets/SUSHI.png"
+    },
+    {
+      "address": "0x6b175474e89094c44da98b954eedeac495271d0f",
+      "chainId": 1,
+      "name": "Dai Stablecoin",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoURI": "https://1inch.exchange/assets/tokens/0x6b175474e89094c44da98b954eedeac495271d0f.png"
+    },
+    {
+      "address": "0x5d3a536E4D6DbD6114cc1Ead35777bAB948E3643",
+      "chainId": 1,
+      "name": "Compound Dai",
+      "symbol": "cDAI",
+      "decimals": 18,
+      "logoURI": "https://1inch.exchange/assets/tokens/0x5d3a536E4D6DbD6114cc1Ead35777bAB948E3643.png"
     }
   ],
   "version": {
