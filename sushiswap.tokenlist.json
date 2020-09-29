@@ -159,7 +159,15 @@
       "symbol": "UNI",
       "decimals": 18,
       "logoURI": "https://1inch.exchange/assets/tokens/0x1f9840a85d5af5bf1d1762f925bdaddc4201f984.png"
-    }
+    },
+    {
+      "address": "0x8798249c2E607446EfB7Ad49eC89dD1865Ff4272",
+      "chainId": 1,
+      "name": "SushiBar",
+      "symbol": "xSUSHI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/sushiswapclassic/token-list/master/assets/SUSHI.png"
+    },
   ],
   "version": {
     "major": 0,
