@@ -223,11 +223,67 @@
       "symbol": "renBTC",
       "decimals": 18,
       "logoURI": "https://1inch.exchange/assets/tokens/0xeb4c2781e4eba804ce9a9803c67d0893436bb27d.png"
+    },
+    {
+      "address": "0xd26114cd6EE289AccF82350c8d8487fedB8A0C07",
+      "chainId": 1,
+      "name": "OmiseGO",
+      "symbol": "OMG",
+      "decimals": 18,
+      "logoURI": "https://1inch.exchange/assets/tokens/0xd26114cd6ee289accf82350c8d8487fedb8a0c07.png"
+    },
+    {
+      "address": "0x429881672B9AE42b8EbA0E26cD9C73711b891Ca5",
+      "chainId": 1,
+      "name": "PickleToken",
+      "symbol": "PICKLE",
+      "decimals": 18,
+      "logoURI": "https://1inch.exchange/assets/tokens/0x429881672b9ae42b8eba0e26cd9c73711b891ca5.png"
+    },
+    {
+      "address": "0x62359Ed7505Efc61FF1D56fEF82158CcaffA23D7",
+      "chainId": 1,
+      "name": "cVaultFinance",
+      "symbol": "CORE",
+      "decimals": 18,
+      "logoURI": "https://1inch.exchange/assets/tokens/0x62359ed7505efc61ff1d56fef82158ccaffa23d7.png"
+    },
+    {
+      "address": "0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2",
+      "chainId": 1,
+      "name": "Maker",
+      "symbol": "MKR",
+      "decimals": 18,
+      "logoURI": "https://1inch.exchange/assets/tokens/0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2.png"
+    },
+    {
+      "address": "0x8dAEBADE922dF735c38C80C7eBD708Af50815fAa",
+      "chainId": 1,
+      "name": "tBTC",
+      "symbol": "tBTC",
+      "decimals": 18,
+      "logoURI": "https://1inch.exchange/assets/tokens/0x8daebade922df735c38c80c7ebd708af50815faa.png"
+    },
+    {
+      "address": "0x584bC13c7D411c00c01A62e8019472dE68768430",
+      "chainId": 1,
+      "name": "Hegic",
+      "symbol": "HEGIC",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/12454/small/Hegic.png?1599938210"
+    },
+    {
+      "address": "0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+      "chainId": 1,
+      "name": "AAVE",
+      "symbol": "AAVE",
+      "decimals": 18,
+      "logoURI": "https://1inch.exchange/assets/tokens/0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9.png"
     }
   ],
   "version": {
     "major": 0,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   }
 }
