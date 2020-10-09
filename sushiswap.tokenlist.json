@@ -181,7 +181,7 @@
       "chainId": 1,
       "name": "WrappedBitcoin",
       "symbol": "WBTC",
-      "decimals": 18,
+      "decimals": 8,
       "logoURI": "https://1inch.exchange/assets/tokens/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599.png"
     },
     {
@@ -221,7 +221,7 @@
       "chainId": 1,
       "name": "renBTC",
       "symbol": "renBTC",
-      "decimals": 18,
+      "decimals": 8,
       "logoURI": "https://1inch.exchange/assets/tokens/0xeb4c2781e4eba804ce9a9803c67d0893436bb27d.png"
     },
     {
@@ -284,6 +284,6 @@
   "version": {
     "major": 0,
     "minor": 2,
-    "patch": 0
+    "patch": 1
   }
 }
