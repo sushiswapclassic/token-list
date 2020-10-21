@@ -169,12 +169,12 @@
       "logoURI": "https://raw.githubusercontent.com/sushiswapclassic/token-list/master/assets/SUSHI.png"
     },
     {
-      "address": "0x5d3a536E4D6DbD6114cc1Ead35777bAB948E3643",
+      "address": "0x5d3a536e4d6dbd6114cc1ead35777bab948e3643",
       "chainId": 1,
       "name": "CompoundDai",
       "symbol": "cDAI",
       "decimals": 18,
-      "logoURI": "https://1inch.exchange/assets/tokens/0x5d3a536E4D6DbD6114cc1Ead35777bAB948E3643.png"
+      "logoURI": "https://1inch.exchange/assets/tokens/0x5d3a536e4d6dbd6114cc1ead35777bab948e3643.png"
     },
     {
       "address": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
@@ -185,20 +185,20 @@
       "logoURI": "https://1inch.exchange/assets/tokens/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599.png"
     },
     {
-      "address": "0x2ba592F78dB6436527729929AAf6c908497cB200",
+      "address": "0x2ba592f78db6436527729929aaf6c908497cb200",
       "chainId": 1,
       "name": "Cream",
       "symbol": "CREAM",
       "decimals": 18,
-      "logoURI": "https://1inch.exchange/assets/tokens/0x2ba592F78dB6436527729929AAf6c908497cB200.png"
+      "logoURI": "https://1inch.exchange/assets/tokens/0x2ba592f78db6436527729929aaf6c908497cb200.png"
     },
     {
-      "address": "0xD5525D397898e5502075Ea5E830d8914f6F0affe",
+      "address": "0xd5525d397898e5502075ea5e830d8914f6f0affe",
       "chainId": 1,
       "name": "Meme",
       "symbol": "MEME",
       "decimals": 18,
-      "logoURI": "https://1inch.exchange/assets/tokens/0xD5525D397898e5502075Ea5E830d8914f6F0affe.png"
+      "logoURI": "https://assets.coingecko.com/coins/images/12140/small/meme.jpg?1597476037"
     },
     {
       "address": "0x0d438f3b5175bebc262bf23753c1e53d03432bde",
@@ -315,7 +315,7 @@
   ],
   "version": {
     "major": 1,
-    "minor": 0,
-    "patch": 2
+    "minor": 1,
+    "patch": 0
   }
 }
