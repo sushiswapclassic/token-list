@@ -279,11 +279,43 @@
       "symbol": "AAVE",
       "decimals": 18,
       "logoURI": "https://1inch.exchange/assets/tokens/0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9.png"
+    },
+    {
+      "address": "0xff20817765cb7f73d4bde2e66e067e58d11095c2",
+      "chainId": 1,
+      "name": "Amp",
+      "symbol": "AMP",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/12409/small/amp-200x200.png?1599625397"
+    },
+    {
+      "address": "0x3f382dbd960e3a9bbceae22651e88158d2791550",
+      "chainId": 1,
+      "name": "Aavegotchi",
+      "symbol": "GHST",
+      "decimals": 18,
+      "logoURI": "https://1inch.exchange/assets/tokens/0x3f382dbd960e3a9bbceae22651e88158d2791550.png"
+    },
+    {
+      "address": "0xfca59cd816ab1ead66534d82bc21e7515ce441cf",
+      "chainId": 1,
+      "name": "Rarible",
+      "symbol": "RARI",
+      "decimals": 18,
+      "logoURI": "https://1inch.exchange/assets/tokens/0xfca59cd816ab1ead66534d82bc21e7515ce441cf.png"
+    },
+    {
+      "address": "0x1494ca1f11d487c2bbe4543e90080aeba4ba3c2b",
+      "chainId": 1,
+      "name": "DefiPulseIndex",
+      "symbol": "DPI",
+      "decimals": 18,
+      "logoURI": "https://1inch.exchange/assets/tokens/0x1494ca1f11d487c2bbe4543e90080aeba4ba3c2b.png"
     }
   ],
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 1
+    "patch": 2
   }
 }
