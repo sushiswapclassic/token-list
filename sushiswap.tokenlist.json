@@ -311,11 +311,19 @@
       "symbol": "DPI",
       "decimals": 18,
       "logoURI": "https://1inch.exchange/assets/tokens/0x1494ca1f11d487c2bbe4543e90080aeba4ba3c2b.png"
+    },
+    {
+      "address": "0xe1406825186d63980fd6e2ec61888f7b91c4bae4",
+      "chainId": 1,
+      "name": "vBTC",
+      "symbol": "vBTC",
+      "decimals": 18,
+      "logoURI": "https://etherscan.io/token/images/strudel-vbtc_32.png"
     }
   ],
   "version": {
     "major": 2,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   }
 }
