@@ -327,11 +327,51 @@
       "symbol": "YAM",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/12530/small/YAM-icon.png?1600495536"
+    },
+    {
+      "address": "0xa0246c9032bc3a600820415ae600c6388619a14d",
+      "chainId": 1,
+      "name": "FARM",
+      "symbol": "FARM",
+      "decimals": 18,
+      "logoURI": "https://1inch.exchange/assets/tokens/0xa0246c9032bc3a600820415ae600c6388619a14d.png"
+    },
+    {
+      "address": "0xad32a8e6220741182940c5abf610bde99e737b2d",
+      "chainId": 1,
+      "name": "PieDAO",
+      "symbol": "DOUGH",
+      "decimals": 18,
+      "logoURI": "https://1inch.exchange/assets/tokens/0xad32a8e6220741182940c5abf610bde99e737b2d.png"
+    },
+    {
+      "address": "0x0ae055097c6d159879521c384f1d2123d1f195e6",
+      "chainId": 1,
+      "name": "xDAI",
+      "symbol": "STAKE",
+      "decimals": 18,
+      "logoURI": "https://1inch.exchange/assets/tokens/0x0ae055097c6d159879521c384f1d2123d1f195e6.png"
+    },
+    {
+      "address": "0x8762db106b2c2a0bccb3a80d1ed41273552616e8",
+      "chainId": 1,
+      "name": "ReserveRights",
+      "symbol": "RSR",
+      "decimals": 18,
+      "logoURI": "https://1inch.exchange/assets/tokens/0x8762db106b2c2a0bccb3a80d1ed41273552616e8.png"
+    },
+    {
+      "address": "0x18aaa7115705e8be94bffebde57af9bfc265b998",
+      "chainId": 1,
+      "name": "Audius",
+      "symbol": "AUDIO",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/12913/small/AudiusCoinLogo_2x.png?1603425727"
     }
   ],
   "version": {
     "major": 2,
-    "minor": 2,
+    "minor": 3,
     "patch": 0
   }
 }
