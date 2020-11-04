@@ -367,11 +367,19 @@
       "symbol": "AUDIO",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/12913/small/AudiusCoinLogo_2x.png?1603425727"
+    },
+    {
+      "address": "0xCa3FE04C7Ee111F0bbb02C328c699226aCf9Fd33",
+      "chainId": 1,
+      "name": "SeenHaus",
+      "symbol": "SEEN",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/sushiswapclassic/token-list/master/assets/seen_haus.jpg"
     }
   ],
   "version": {
     "major": 2,
-    "minor": 3,
+    "minor": 4,
     "patch": 0
   }
 }
