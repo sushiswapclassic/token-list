@@ -375,11 +375,67 @@
       "symbol": "SEEN",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/sushiswapclassic/token-list/master/assets/seen_haus.jpg"
+    },
+    {
+      "address": "0x8ab7404063ec4dbcfd4598215992dc3f8ec853d7",
+      "chainId": 1,
+      "name": "Akropolis",
+      "symbol": "AKRO",
+      "decimals": 18,
+      "logoURI": "https://1inch.exchange/assets/tokens/0x8ab7404063ec4dbcfd4598215992dc3f8ec853d7.png"
+    },
+    {
+      "address": "0xEEF9f339514298C6A857EfCfC1A762aF84438dEE",
+      "chainId": 1,
+      "name": "HermezNetwork",
+      "symbol": "HEZ",
+      "decimals": 18,
+      "logoURI": "https://tokens.1inch.exchange/0xeef9f339514298c6a857efcfc1a762af84438dee.png"
+    },
+    {
+      "address": "0xb1dc9124c395c1e97773ab855d66e879f053a289",
+      "chainId": 1,
+      "name": "yAxis",
+      "symbol": "YAX",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/12620/small/yax_logo.jpg?1601280502"
+    },
+    {
+      "address": "0x2a8e1e676ec238d8a992307b495b45b3feaa5e86",
+      "chainId": 1,
+      "name": "OriginDollar",
+      "symbol": "oUSD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/12589/small/ousd-logo-200x200.png?1600943287"
+    },
+    {
+      "address": "0xEa319e87Cf06203DAe107Dd8E5672175e3Ee976c",
+      "chainId": 1,
+      "name": "SurfFinance",
+      "symbol": "SURF",
+      "decimals": 18,
+      "logoURI": "https://tokens.1inch.exchange/0xea319e87cf06203dae107dd8e5672175e3ee976c.png"
+    },
+    {
+      "address": "0x1ceb5cb57c4d4e2b2433641b95dd330a33185a44",
+      "chainId": 1,
+      "name": "Keep3rV1",
+      "symbol": "KP3R",
+      "decimals": 18,
+      "logoURI": "https://tokens.1inch.exchange/0x1ceb5cb57c4d4e2b2433641b95dd330a33185a44.png"
+    },
+    {
+      "address": "0xF5D669627376EBd411E34b98F19C868c8ABA5ADA",
+      "chainId": 1,
+      "name": "AxieInfinityShard",
+      "symbol": "AXS",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/13029/small/axie_infinity_logo.png?1604471082"
     }
   ],
   "version": {
     "major": 2,
-    "minor": 4,
+    "minor": 5,
     "patch": 0
   }
 }
