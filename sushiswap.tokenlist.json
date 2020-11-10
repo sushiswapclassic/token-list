@@ -404,7 +404,7 @@
       "address": "0x2a8e1e676ec238d8a992307b495b45b3feaa5e86",
       "chainId": 1,
       "name": "OriginDollar",
-      "symbol": "oUSD",
+      "symbol": "OUSD",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/12589/small/ousd-logo-200x200.png?1600943287"
     },
