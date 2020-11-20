@@ -431,11 +431,19 @@
       "symbol": "AXS",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/13029/small/axie_infinity_logo.png?1604471082"
+    },
+    {
+      "address": "0x5d8d9f5b96f4438195be9b99eee6118ed4304286",
+      "chainId": 1,
+      "name": "CoverProtocol",
+      "symbol": "COVER",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/sushiswapclassic/token-list/master/assets/cover.png"
     }
   ],
   "version": {
     "major": 2,
-    "minor": 6,
+    "minor": 7,
     "patch": 0
   }
 }
