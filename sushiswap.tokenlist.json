@@ -14,7 +14,7 @@
       "name": "SushiSwap",
       "symbol": "SUSHI",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/sushiswapclassic/token-list/master/assets/SUSHI.png"
+      "logoURI": "https://raw.githubusercontent.com/sushiswapclassic/token-list/master/assets/sushi_logo.png"
     },
     {
       "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
@@ -459,7 +459,7 @@
   ],
   "version": {
     "major": 2,
-    "minor": 8,
+    "minor": 9,
     "patch": 0
   }
 }
