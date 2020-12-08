@@ -137,14 +137,6 @@
       "logoURI": "https://1inch.exchange/assets/tokens/0x476c5e26a75bd202a9683ffd34359c0cc15be0ff.png"
     },
     {
-      "address": "0xAba8cAc6866B83Ae4eec97DD07ED254282f6aD8A",
-      "chainId": 1,
-      "name": "YAMv2",
-      "symbol": "YAMv2",
-      "decimals": 24,
-      "logoURI": "https://1inch.exchange/assets/tokens/0xaba8cac6866b83ae4eec97dd07ed254282f6ad8a.png"
-    },
-    {
       "address": "0xD533a949740bb3306d119CC777fa900bA034cd52",
       "chainId": 1,
       "name": "CurveDAOToken",
