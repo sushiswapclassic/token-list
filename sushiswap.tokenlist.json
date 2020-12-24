@@ -545,14 +545,6 @@
       "logoURI": "https://assets.coingecko.com/coins/images/13287/small/badger_dao_logo.jpg?1607054976"
     },
     {
-      "address": "0xa8e7ad77c60ee6f30bac54e2e7c0617bd7b5a03e",
-      "chainId": 1,
-      "name": "zLOT",
-      "symbol": "zLOT",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/13073/small/z-LOT-logo-transparent.png?1604900416"
-    },
-    {
       "address": "0x0954906da0bf32d5479e25f46056d22f08464cab",
       "chainId": 1,
       "name": "Index Cooperative",
@@ -747,7 +739,7 @@
   ],
   "version": {
     "major": 5,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   }
 }
