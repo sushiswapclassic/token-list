@@ -649,7 +649,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/11488/small/finnexus_gecko.png?1591260971"
     },
     {
-      "address": "",
+      "address": "0xe4f726adc8e89c6a6017f01eada77865db22da14",
       "chainId": 1,
       "name": "PieDAO Balance Crypto Pie",
       "symbol": "BCP",
