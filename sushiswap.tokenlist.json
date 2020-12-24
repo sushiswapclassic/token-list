@@ -499,8 +499,8 @@
     {
       "address": "0xe28b3b32b6c345a34ff64674606124dd5aceca30",
       "chainId": 1,
-      "name": "INJ",
-      "symbol": "Injective Protocol",
+      "name": "Injective Protocol",
+      "symbol": "INJ",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/12882/small/injective_logo.jpg?1603255762"
     },
@@ -670,7 +670,7 @@
       "name": "PieDAO DEFI Large Cap",
       "symbol": "DEFI+L",
       "decimals": 18,
-      "logoURI": "https://github.com/pie-dao/brand/blob/master/PIE Tokens/DEFI%2BL.svg"
+      "logoURI": "https://github.com/pie-dao/brand/blob/master/PIE%20Tokens/DEFI%2BL.svg"
     },
     {
       "address": "0x07150e919b4de5fd6a63de1f9384828396f25fdc",
@@ -747,7 +747,7 @@
   ],
   "version": {
     "major": 4,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   }
 }
