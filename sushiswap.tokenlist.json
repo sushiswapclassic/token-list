@@ -334,7 +334,7 @@
       "name": "PieDAO",
       "symbol": "DOUGH",
       "decimals": 18,
-      "logoURI": "https://1inch.exchange/assets/tokens/0xad32a8e6220741182940c5abf610bde99e737b2d.png"
+      "logoURI": "https://github.com/pie-dao/brand/blob/master/PIE%20Tokens/DOUGH.svg"
     },
     {
       "address": "0x0ae055097c6d159879521c384f1d2123d1f195e6",
@@ -447,10 +447,306 @@
       "symbol": "ZHEGIC",
       "decimals": 18,
       "logoURI": "https://static.alchemyapi.io/images/assets/7601.png"
+    },
+    {
+      "address": "0x36f3fd68e7325a35eb768f1aedaae9ea0689d723",
+      "chainId": 1,
+      "name": "Empty Set Dollar",
+      "symbol": "ESD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/12440/small/esd_logo_circle.png?1603676421"
+    },
+    {
+      "address": "0xa117000000f279d81a1d3cc75430faa017fa5a2e",
+      "chainId": 1,
+      "name": "Aragon",
+      "symbol": "ANT",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/681/small/JelZ58cv_400x400.png?1601449653"
+    },
+    {
+      "address": "0x93ed3fbe21207ec2e8f2d3c3de6e058cb73bc04d",
+      "chainId": 1,
+      "name": "Pinakion",
+      "symbol": "PNK",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/3833/small/kleros.png?1547975322"
+    },
+    {
+      "address": "0x38e4adb44ef08f22f5b5b76a8f0c2d0dcbe7dca1",
+      "chainId": 1,
+      "name": "Concentrated Voting Power",
+      "symbol": "CVP",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/12266/small/Powerpool.jpg?1598621373"
+    },
+    {
+      "address": "0xb4bebd34f6daafd808f73de0d10235a92fbb6c3d",
+      "chainId": 1,
+      "name": "Yearn Ecosystem Token Index",
+      "symbol": "YETI",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/13332/small/yeti.png?1607563342"
+    },
+    {
+      "address": "0x1f3f9d3068568f8040775be2e8c03c103c61f3af",
+      "chainId": 1,
+      "name": "Archer DAO",
+      "symbol": "ARCH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/13188/small/archer_logo.png?1606097487"
+    },
+    {
+      "address": "0xe28b3b32b6c345a34ff64674606124dd5aceca30",
+      "chainId": 1,
+      "name": "INJ",
+      "symbol": "Injective Protocol",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/12882/small/injective_logo.jpg?1603255762"
+    },
+    {
+      "address": "0x3c9d6c1c73b31c837832c72e04d3152f051fc1a9",
+      "chainId": 1,
+      "name": "BoringDao",
+      "symbol": "BOR",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/12917/small/bor_logo.png?1603607502"
+    },
+    {
+      "address": "0xb753428af26e81097e7fd17f40c88aaa3e04902c",
+      "chainId": 1,
+      "name": "saffron.finance",
+      "symbol": "SFI",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/13117/small/sfi_red_250px.png?1606020144"
+    },
+    {
+      "address": "0x5bc25f649fc4e26069ddf4cf4010f9f706c23831",
+      "chainId": 1,
+      "name": "DefiDollar",
+      "symbol": "DUSD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/12333/small/defidollar_logo.png?1599116360"
+    },
+    {
+      "address": "0x20c36f062a31865bed8a5b1e512d9a1a20aa333a",
+      "chainId": 1,
+      "name": "DefiDollar DAO",
+      "symbol": "DFD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/12959/small/DFD.jpg?1604415975"
+    },
+    {
+      "address": "0x3472a5a71965499acd81997a54bba8d852c6e53d",
+      "chainId": 1,
+      "name": "Badger DAO",
+      "symbol": "BADGER",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/13287/small/badger_dao_logo.jpg?1607054976"
+    },
+    {
+      "address": "0xa8e7ad77c60ee6f30bac54e2e7c0617bd7b5a03e",
+      "chainId": 1,
+      "name": "zLOT",
+      "symbol": "zLOT",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/13073/small/z-LOT-logo-transparent.png?1604900416"
+    },
+    {
+      "address": "0x0954906da0bf32d5479e25f46056d22f08464cab",
+      "chainId": 1,
+      "name": "Index Cooperative",
+      "symbol": "INDEX",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/12729/small/c7w3TmXs_400x400.png?1602630788"
+    },
+    {
+      "address": "0x87edffde3e14c7a66c9b9724747a1c5696b742e6",
+      "chainId": 1,
+      "name": "Swag Finance",
+      "symbol": "SWAG",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/12805/small/photo_2020-10-14_23.17.02.jpeg?1602688642"
+    },
+    {
+      "address": "0x8a9c67fee641579deba04928c4bc45f66e26343a",
+      "chainId": 1,
+      "name": "Jarvis Reward Token",
+      "symbol": "JRT",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/10390/small/cfeii0y.png?1578868949"
+    },
+    {
+      "address": "0xdbdd6f355a37b94e6c7d32fef548e98a280b8df5",
+      "chainId": 1,
+      "name": "UniWhales",
+      "symbol": "UWL",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/13166/small/uniwhales.png?1605825507"
+    },
+    {
+      "address": "0x903bef1736cddf2a537176cf3c64579c3867a881",
+      "chainId": 1,
+      "name": "ichi.farm",
+      "symbol": "ICHI",
+      "decimals": 9,
+      "logoURI": "https://assets.coingecko.com/coins/images/13119/small/ichifarm.jpg?1605664946"
+    },
+    {
+      "address": "0x9d47894f8becb68b9cf3428d256311affe8b068b",
+      "chainId": 1,
+      "name": "ROPE",
+      "symbol": "$ROPE",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/12567/small/Rope_Icon.jpg?1604038203"
+    },
+    {
+      "address": "0x8064d9Ae6cDf087b1bcd5BDf3531bD5d8C537a68",
+      "chainId": 1,
+      "name": "BoringDAO BTC",
+      "symbol": "oBTC",
+      "decimals": 18,
+      "logoURI": "https://etherscan.io/token/images/boringdao-btc_32.png"
+    },
+    {
+      "address": "0x26cf82e4ae43d31ea51e72b663d26e26a75af729",
+      "chainId": 1,
+      "name": "Moonbase",
+      "symbol": "mbBASED",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/12694/small/mb-logo.png?1601715131"
+    },
+    {
+      "address": "0xbd2f0cd039e0bfcf88901c98c0bfac5ab27566e3",
+      "chainId": 1,
+      "name": "Dynamic Set Dollar",
+      "symbol": "DSD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/13249/small/DSD.jpg?1606713628"
+    },
+    {
+      "address": "0x44ea84a85616f8e9cd719fc843de31d852ad7240",
+      "chainId": 1,
+      "name": "No Trump",
+      "symbol": "nTRUMP",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/12597/small/nX10wsB.png?1600997655"
+    },
+    {
+      "address": "0xa47c8bf37f92abed4a126bda807a7b7498661acd",
+      "chainId": 1,
+      "name": "TerraUSD",
+      "symbol": "UST",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/12681/small/UST.png?1601612407"
+    },
+    {
+      "address": "0xef9cd7882c067686691b6ff49e650b43afbbcc6b",
+      "chainId": 1,
+      "name": "FinNexus",
+      "symbol": "FNX",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/11488/small/finnexus_gecko.png?1591260971"
+    },
+    {
+      "address": "",
+      "chainId": 1,
+      "name": "PieDAO Balance Crypto Pie",
+      "symbol": "BCP",
+      "decimals": 18,
+      "logoURI": "https://github.com/pie-dao/brand/blob/master/PIE%20Tokens/BCP.png"
+    },
+    {
+      "address": "0x17525e4f4af59fbc29551bc4ece6ab60ed49ce31",
+      "chainId": 1,
+      "name": "PieDAO Yearn Ecosystem Pie",
+      "symbol": "YPIE",
+      "decimals": 18,
+      "logoURI": "https://github.com/pie-dao/brand/blob/master/PIE%20Tokens/YPIE.svg"
+    },
+    {
+      "address": "0x78f225869c08d478c34e5f645d07a87d3fe8eb78",
+      "chainId": 1,
+      "name": "PieDAO DEFI Large Cap",
+      "symbol": "DEFI+L",
+      "decimals": 18,
+      "logoURI": "https://github.com/pie-dao/brand/blob/master/PIE Tokens/DEFI%2BL.svg"
+    },
+    {
+      "address": "0x07150e919b4de5fd6a63de1f9384828396f25fdc",
+      "chainId": 1,
+      "name": "Base Protocol",
+      "symbol": "BASE",
+      "decimals": 9,
+      "logoURI": "https://assets.coingecko.com/coins/images/13265/small/200x200green.png?1607650121"
+    },
+    {
+      "address": "0x3a880652f47bfaa771908c07dd8673a787daed3a",
+      "chainId": 1,
+      "name": "DerivaDAO",
+      "symbol": "DDX",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/13453/small/ddx_logo.png?1608741641"
+    },
+    {
+      "address": "0x8888801af4d980682e47f1a9036e589479e835c5",
+      "chainId": 1,
+      "name": "88mph",
+      "symbol": "MPH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/13137/small/yfU-_Tcj_400x400.png?1605581509"
+    },
+    {
+      "address": "0xf8c3527cc04340b208c854e985240c02f7b7793f",
+      "chainId": 1,
+      "name": "Frontier",
+      "symbol": "FRONT",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/12479/small/frontier_logo.png?1600145472"
+    },
+    {
+      "address": "0xe4ae84448db5cfe1daf1e6fb172b469c161cb85f",
+      "chainId": 1,
+      "name": "Utopia Genesis Foundation",
+      "symbol": "UOP",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/13428/small/logo_%2830%29.png?1608518506"
+    },
+    {
+      "address": "0x4c19596f5aaff459fa38b0f7ed92f11ae6543784",
+      "chainId": 1,
+      "name": "TrueFi",
+      "symbol": "TRU",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/13180/small/trust-token.png?1606009370"
+    },
+    {
+      "address": "0xa1faa113cbe53436df28ff0aee54275c13b40975",
+      "chainId": 1,
+      "name": "Alpha Finance",
+      "symbol": "ALPHA",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/12738/small/ec7316b1-8bd9-4a76-8a1e-2d5c0b287d2f.jpg?1602306985"
+    },
+    {
+      "address": "0x7ca4408137eb639570f8e647d9bd7b7e8717514a",
+      "chainId": 1,
+      "name": "Alpaca",
+      "symbol": "ALPA",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/13070/small/alpaca_logo.png?1604895862"
+    },
+    {
+      "address": "0xcbc1065255cbc3ab41a6868c22d1f1c573ab89fd",
+      "chainId": 1,
+      "name": "Cream ETH 2",
+      "symbol": "CRETH2",
+      "decimals": 18,
+      "logoURI": "https://etherscan.io/token/images/CreamFinance_32.png"
     }
   ],
   "version": {
-    "major": 3,
+    "major": 4,
     "minor": 0,
     "patch": 0
   }
