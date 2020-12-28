@@ -425,14 +425,6 @@
       "logoURI": "https://assets.coingecko.com/coins/images/13029/small/axie_infinity_logo.png?1604471082"
     },
     {
-      "address": "0x5d8d9f5b96f4438195be9b99eee6118ed4304286",
-      "chainId": 1,
-      "name": "CoverProtocol",
-      "symbol": "COVER",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/sushiswapclassic/token-list/master/assets/cover.png"
-    },
-    {
       "address": "0xA8e7AD77C60eE6f30BaC54E2E7c0617Bd7B5A03E",
       "chainId": 1,
       "name": "zLot Finance",
@@ -747,7 +739,7 @@
   ],
   "version": {
     "major": 6,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   }
 }
