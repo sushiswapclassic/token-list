@@ -742,12 +742,12 @@
       "name": "Mith Cash",
       "symbol": "MIC",
       "decimals": 18,
-      "logoURI": "https://etherscan.io/token/images/1inch_32.png"
+      "logoURI": "https://mith.cash/static/media/mithCash.18c4ff38.svg"
     }
 
   ],
   "version": {
-    "major": 8,
+    "major": 9,
     "minor": 0,
     "patch": 0
   }
