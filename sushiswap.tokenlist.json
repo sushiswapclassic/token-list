@@ -735,10 +735,19 @@
       "symbol": "1INCH",
       "decimals": 18,
       "logoURI": "https://etherscan.io/token/images/1inch_32.png"
+    },
+    {
+      "address": "0x368b3a58b5f49392e5c9e4c998cb0bb966752e51",
+      "chainId": 1,
+      "name": "Mith Cash",
+      "symbol": "MIC",
+      "decimals": 18,
+      "logoURI": "https://etherscan.io/token/images/1inch_32.png"
     }
+
   ],
   "version": {
-    "major": 7,
+    "major": 8,
     "minor": 0,
     "patch": 0
   }
