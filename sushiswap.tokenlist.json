@@ -751,10 +751,18 @@
       "symbol": "MIS",
       "decimals": 18,
       "logoURI": "https://mith.cash/static/media/mithCash.18c4ff38.svg"
+    },
+    {
+      "address": "0x4688a8b1f292fdab17e9a90c8bc379dc1dbd8713",
+      "chainId": 1,
+      "name": "Cover Protocol",
+      "symbol": "COVER",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/13563/small/1_eWBbDaqpxXqt7WYPSP4qSw.jpeg?1609822578"
     }
   ],
   "version": {
-    "major": 10,
+    "major": 11,
     "minor": 0,
     "patch": 0
   }
