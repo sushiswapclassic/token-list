@@ -759,10 +759,18 @@
       "symbol": "COVER",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/13563/small/1_eWBbDaqpxXqt7WYPSP4qSw.jpeg?1609822578"
+    },
+    {
+      "address": "0x3155ba85d5f96b2d030a4966af206230e46849cb",
+      "chainId": 1,
+      "name": "THORChain ETH.RUNE",
+      "symbol": "RUNE",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/6595/small/thorchain.png?1547042798"
     }
   ],
   "version": {
-    "major": 11,
+    "major": 12,
     "minor": 0,
     "patch": 0
   }
