@@ -773,12 +773,12 @@
       "chainId": 1,
       "name": "Poly Ontology Wing Token",
       "symbol": "pWING",
-      "decimals": 18,
+      "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/sushiswapclassic/token-list/master/assets/logo_R02_WING_black_80x80.svg"
     }
   ],
   "version": {
-    "major": 13,
+    "major": 14,
     "minor": 0,
     "patch": 0
   }
