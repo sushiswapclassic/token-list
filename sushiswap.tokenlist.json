@@ -799,10 +799,18 @@
       "symbol": "BAB",
       "decimals": 18,
       "logoURI": "https://etherscan.io/token/images/basiscash-bab_32.png"
+    },
+    {
+      "address": "0x798d1be841a82a273720ce31c822c61a67a601c3",
+      "chainId": 1,
+      "name": "Digg",
+      "symbol": "DIGG",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/sushiswapclassic/token-list/master/assets/digg_logo.png"
     }
   ],
   "version": {
-    "major": 15,
+    "major": 16,
     "minor": 0,
     "patch": 0
   }
