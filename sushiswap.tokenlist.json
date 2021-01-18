@@ -807,10 +807,18 @@
       "symbol": "DIGG",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/sushiswapclassic/token-list/master/assets/digg_logo.png"
+    },
+    {
+      "address": "0x9cea2ed9e47059260c97d697f82b8a14efa61ea5",
+      "chainId": 1,
+      "name": "Punk",
+      "symbol": "PUNK",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/sushiswapclassic/token-list/master/assets/Punk_Icon_Big.png"
     }
   ],
   "version": {
-    "major": 16,
+    "major": 17,
     "minor": 0,
     "patch": 0
   }
