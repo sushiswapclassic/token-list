@@ -998,11 +998,11 @@
       "name": "Fantom Token",
       "symbol": "FTM",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/sushiswapclassic/token-list/master/assets/logomark%20blue.svg"
+      "logoURI": "https://raw.githubusercontent.com/sushiswapclassic/token-list/master/assets/logomark%20white.svg"
     }
   ],
   "version": {
-    "major": 21,
+    "major": 22,
     "minor": 0,
     "patch": 0
   }
