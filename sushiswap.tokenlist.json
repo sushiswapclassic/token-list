@@ -1004,13 +1004,13 @@
       "address": "0xc5bddf9843308380375a611c18b50fb9341f502a",
       "chainId": 1,
       "name": "veCRV-DAO yVault",
-      "symbol": "veCRV-DAO",
+      "symbol": "yveCRV-DAO",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/sushiswapclassic/token-list/master/assets/gorilla_1f98d.png"
     }
   ],
   "version": {
-    "major": 23,
+    "major": 24,
     "minor": 0,
     "patch": 0
   }
