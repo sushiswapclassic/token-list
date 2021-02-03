@@ -1007,10 +1007,26 @@
       "symbol": "yveCRV-DAO",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/sushiswapclassic/token-list/master/assets/gorilla_1f98d.png"
+    },
+    {
+      "address": "0x8a9c4dfe8b9d8962b31e4e16f8321c44d48e246e",
+      "chainId": 1,
+      "name": "NameChangeToken",
+      "symbol": "NCT",
+      "decimals": 18,
+      "logoURI": "https://etherscan.io/token/images/namechange_32.png"
+    },
+    {
+      "address": "0x3832d2f059e55934220881f831be501d180671a7",
+      "chainId": 1,
+      "name": "renDOGE",
+      "symbol": "renDOGE",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/13796/small/renDOGE.png?1611897869"
     }
   ],
   "version": {
-    "major": 24,
+    "major": 25,
     "minor": 0,
     "patch": 0
   }
