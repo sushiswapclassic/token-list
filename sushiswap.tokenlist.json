@@ -1022,7 +1022,7 @@
       "name": "renDOGE",
       "symbol": "renDOGE",
       "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/13796/small/renDOGE.png?1611897869"
+      "logoURI": "https://raw.githubusercontent.com/sushiswapclassic/token-list/master/assets/doge-sushi.png"
     },
     {
       "address": "0xeea3311250fe4c3268f8e684f7c87a82ff183ec1",
@@ -1042,7 +1042,7 @@
     }
   ],
   "version": {
-    "major": 27,
+    "major": 28,
     "minor": 0,
     "patch": 0
   }
