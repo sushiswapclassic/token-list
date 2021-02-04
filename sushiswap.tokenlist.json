@@ -1031,10 +1031,18 @@
       "symbol": "ibETHv2",
       "decimals": 8,
       "logoURI": "https://assets.coingecko.com/coins/images/13131/small/7675.png?1605535879"
+    },
+    {
+      "address": "0x0fe629d1e84e171f8ff0c1ded2cc2221caa48a3f",
+      "chainId": 1,
+      "name": "NFTX Hashmasks Index",
+      "symbol": "MASK",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/13873/small/nftx.png?1612448203"
     }
   ],
   "version": {
-    "major": 26,
+    "major": 27,
     "minor": 0,
     "patch": 0
   }
