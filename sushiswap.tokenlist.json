@@ -1039,10 +1039,18 @@
       "symbol": "MASK",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/13873/small/nftx.png?1612448203"
+    },
+    {
+      "address": "0x26607ac599266b21d13c7acf7942c7701a8b699c",
+      "chainId": 1,
+      "name": "Power Index Pool Token",
+      "symbol": "PIPT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/sushiswapclassic/token-list/master/assets/PIPT128.png"
     }
   ],
   "version": {
-    "major": 29,
+    "major": 30,
     "minor": 0,
     "patch": 0
   }
