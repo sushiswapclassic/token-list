@@ -1047,10 +1047,18 @@
       "symbol": "PIPT",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/sushiswapclassic/token-list/master/assets/PIPT128.png"
+    },
+    {
+      "address": "0xDcB01cc464238396E213a6fDd933E36796eAfF9f",
+      "chainId": 1,
+      "name": "Yield",
+      "symbol": "YLD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/13336/small/yieldcredit-logo-1024.png?1607653444"
     }
   ],
   "version": {
-    "major": 30,
+    "major": 31,
     "minor": 0,
     "patch": 0
   }
