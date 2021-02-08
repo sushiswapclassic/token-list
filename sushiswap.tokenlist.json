@@ -1055,10 +1055,18 @@
       "symbol": "YLD",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/13336/small/yieldcredit-logo-1024.png?1607653444"
+    },
+    {
+      "address": "0x77777FeDdddFfC19Ff86DB637967013e6C6A116C",
+      "chainId": 1,
+      "name": "TORN Token",
+      "symbol": "TORN",
+      "decimals": 18,
+      "logoURI": "https://etherscan.io/token/images/torn_32.png"
     }
   ],
   "version": {
-    "major": 34,
+    "major": 35,
     "minor": 0,
     "patch": 0
   }
