@@ -1014,7 +1014,7 @@
       "name": "NameChangeToken",
       "symbol": "NCT",
       "decimals": 18,
-      "logoURI": "https://etherscan.io/token/images/namechange_32.png"
+      "logoURI": "https://raw.githubusercontent.com/sushiswapclassic/token-list/master/assets/hashmask_nft_by_bruce.png"
     },
     {
       "address": "0x3832d2f059e55934220881f831be501d180671a7",
@@ -1058,7 +1058,7 @@
     }
   ],
   "version": {
-    "major": 31,
+    "major": 32,
     "minor": 0,
     "patch": 0
   }
