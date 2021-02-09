@@ -1063,10 +1063,18 @@
       "symbol": "TORN",
       "decimals": 18,
       "logoURI": "https://etherscan.io/token/images/torn_32.png"
+    },
+    {
+      "address": "0xA487bF43cF3b10dffc97A9A744cbB7036965d3b9",
+      "chainId": 1,
+      "name": "Deri Token",
+      "symbol": "DERI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/sushiswapclassic/token-list/master/assets/2021-02-08%2017.38.32.jpg"
     }
   ],
   "version": {
-    "major": 35,
+    "major": 36,
     "minor": 0,
     "patch": 0
   }
