@@ -1071,10 +1071,42 @@
       "symbol": "DERI",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/sushiswapclassic/token-list/master/assets/2021-02-08%2017.38.32.jpg"
+    },
+    {
+      "address": "0x8F041A3940a5e6FB580075C3774E15FcFA0E1618",
+      "chainId": 1,
+      "name": "oneWING",
+      "symbol": "oneWING",
+      "decimals": 9,
+      "logoURI": "https://www.ichi.farm/static/media/oneWING.9e01e221.svg"
+    },
+    {
+      "address": "0xEc0d77a58528a218cBf41Fa6E1585c8D7A085868",
+      "chainId": 1,
+      "name": "oneETH",
+      "symbol": "oneETH",
+      "decimals": 9,
+      "logoURI": "https://www.ichi.farm/static/media/oneETH.9edf6ac7.svg"
+    },
+    {
+      "address": "0x18Cc17a1EeD37C02A77B0B96b7890C7730E2a2CF",
+      "chainId": 1,
+      "name": "oneLINK",
+      "symbol": "oneLINK",
+      "decimals": 9,
+      "logoURI": "https://www.ichi.farm/static/media/oneLINK.2bc4f7a6.svg"
+    },
+    {
+      "address": "0xC88F47067dB2E25851317A2FDaE73a22c0777c37",
+      "chainId": 1,
+      "name": "oneBTC",
+      "symbol": "oneBTC",
+      "decimals": 9,
+      "logoURI": "https://www.ichi.farm/static/media/oneBTC.3ddd7597.svg"
     }
   ],
   "version": {
-    "major": 36,
+    "major": 37,
     "minor": 0,
     "patch": 0
   }
