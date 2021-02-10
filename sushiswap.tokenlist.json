@@ -334,7 +334,7 @@
       "name": "PieDAO",
       "symbol": "DOUGH",
       "decimals": 18,
-      "logoURI": "https://github.com/pie-dao/brand/blob/master/PIE%20Tokens/DOUGH.svg"
+      "logoURI": "https://raw.githubusercontent.com/pie-dao/brand/master/PIE%20Tokens/DOUGH.svg"
     },
     {
       "address": "0x0Ae055097C6d159879521C384F1D2123D1f195e6",
@@ -638,7 +638,7 @@
       "name": "PieDAO Balance Crypto Pie",
       "symbol": "BCP",
       "decimals": 18,
-      "logoURI": "https://github.com/pie-dao/brand/blob/master/PIE%20Tokens/BCP.png"
+      "logoURI": "https://raw.githubusercontent.com/pie-dao/brand/master/PIE%20Tokens/BCP.png"
     },
     {
       "address": "0x17525E4f4Af59fbc29551bC4eCe6AB60Ed49CE31",
@@ -646,7 +646,7 @@
       "name": "PieDAO Yearn Ecosystem Pie",
       "symbol": "YPIE",
       "decimals": 18,
-      "logoURI": "https://github.com/pie-dao/brand/blob/master/PIE%20Tokens/YPIE.svg"
+      "logoURI": "https://raw.githubusercontent.com/pie-dao/brand/master/PIE%20Tokens/YPIE.svg"
     },
     {
       "address": "0x78F225869c08d478c34e5f645d07A87d3fe8eb78",
@@ -654,7 +654,7 @@
       "name": "PieDAO DEFI Large Cap",
       "symbol": "DEFI+L",
       "decimals": 18,
-      "logoURI": "https://github.com/pie-dao/brand/blob/master/PIE%20Tokens/DEFI%2BL.svg"
+      "logoURI": "https://raw.githubusercontent.com/pie-dao/brand/master/PIE%20Tokens/DEFI%2BL.svg"
     },
     {
       "address": "0x07150e919B4De5fD6a63DE1F9384828396f25fDC",
@@ -1103,18 +1103,10 @@
       "symbol": "oneBTC",
       "decimals": 9,
       "logoURI": "https://www.ichi.farm/static/media/oneBTC.3ddd7597.svg"
-    },
-    {
-      "address": "0xDcB01cc464238396E213a6fDd933E36796eAfF9f",
-      "chainId": 1,
-      "name": "Yield",
-      "symbol": "YLD",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/13336/small/yieldcredit-logo-1024.png?1607653444"
     }
   ],
   "version": {
-    "major": 38,
+    "major": 39,
     "minor": 0,
     "patch": 0
   }
