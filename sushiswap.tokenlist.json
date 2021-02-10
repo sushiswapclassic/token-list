@@ -1103,10 +1103,18 @@
       "symbol": "oneBTC",
       "decimals": 9,
       "logoURI": "https://www.ichi.farm/static/media/oneBTC.3ddd7597.svg"
+    },
+    {
+      "address": "0xDcB01cc464238396E213a6fDd933E36796eAfF9f",
+      "chainId": 1,
+      "name": "Yield",
+      "symbol": "YLD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/13336/small/yieldcredit-logo-1024.png?1607653444"
     }
   ],
   "version": {
-    "major": 37,
+    "major": 38,
     "minor": 0,
     "patch": 0
   }
