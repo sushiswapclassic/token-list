@@ -1127,10 +1127,18 @@
       "symbol": "stETH",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/sushiswapclassic/token-list/master/assets/stETH.png"
+    },
+    {
+      "address": "0xAE1eaAE3F627AAca434127644371b67B18444051",
+      "chainId": 1,
+      "name": "YOP",
+      "symbol": "YOP",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/sushiswapclassic/token-list/master/assets/YOP-trimera200.png"
     }
   ],
   "version": {
-    "major": 41,
+    "major": 42,
     "minor": 0,
     "patch": 0
   }
