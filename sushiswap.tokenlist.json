@@ -1119,10 +1119,18 @@
       "symbol": "mBTC",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/sushiswapclassic/token-list/master/assets/mstable_logo_asssets_circle_mBTC%20(1).png"
+    },
+    {
+      "address": "0xDFe66B14D37C77F4E9b180cEb433d1b164f0281D",
+      "chainId": 1,
+      "name": "stakedETH",
+      "symbol": "stETH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/sushiswapclassic/token-list/master/assets/stETH.png"
     }
   ],
   "version": {
-    "major": 40,
+    "major": 41,
     "minor": 0,
     "patch": 0
   }
