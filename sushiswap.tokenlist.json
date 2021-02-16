@@ -1103,10 +1103,26 @@
       "symbol": "oneBTC",
       "decimals": 9,
       "logoURI": "https://www.ichi.farm/static/media/oneBTC.3ddd7597.svg"
+    },
+    {
+      "address": "0xf99d58e463A2E07e5692127302C20A191861b4D6",
+      "chainId": 1,
+      "name": "Anyswap",
+      "symbol": "ANY",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/anyswap/Brand-assets/master/logo/c-256-color-2%403x.png"
+    },
+    {
+      "address": "0x945Facb997494CC2570096c74b5F66A3507330a1",
+      "chainId": 1,
+      "name": "mStable BTC",
+      "symbol": "mBTC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/sushiswapclassic/token-list/master/assets/mstable_logo_asssets_circle_mBTC%20(1).png"
     }
   ],
   "version": {
-    "major": 39,
+    "major": 40,
     "minor": 0,
     "patch": 0
   }
