@@ -1135,10 +1135,18 @@
       "symbol": "YOP",
       "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/sushiswapclassic/token-list/master/assets/YOP-trimera200.png"
+    },
+    {
+      "address": "0xEF5C6A88710a3C857105058F947D249bc490909D",
+      "chainId": 1,
+      "name": "wanWASP",
+      "symbol": "wanWASP",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/sushiswapclassic/token-list/master/assets/wasp.jpg"
     }
   ],
   "version": {
-    "major": 42,
+    "major": 43,
     "minor": 0,
     "patch": 0
   }
