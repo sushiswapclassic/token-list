@@ -1183,10 +1183,18 @@
       "symbol": "PUNK-ZOMBIE",
       "decimals": 18,
       "logoURI": "https://blog.nftx.org/content/images/2021/02/icon-punk-zombies-40.png"
+    },
+    {
+      "address": "0x1b40183EFB4Dd766f11bDa7A7c3AD8982e998421",
+      "chainId": 1,
+      "name": "VesperToken",
+      "symbol": "VSP",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/sushiswapclassic/token-list/master/assets/vesper_logo.png"
     }
   ],
   "version": {
-    "major": 45,
+    "major": 46,
     "minor": 0,
     "patch": 0
   }
