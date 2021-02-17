@@ -1143,10 +1143,50 @@
       "symbol": "wanWASP",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/sushiswapclassic/token-list/master/assets/wasp.jpg"
+    },
+    {
+      "address": "0x69BbE2FA02b4D90A944fF328663667DC32786385",
+      "chainId": 1,
+      "name": "Punk-Basic",
+      "symbol": "PUNK-BASIC",
+      "decimals": 18,
+      "logoURI": "https://blog.nftx.org/content/images/2021/02/icon-punk-basic-40.png"
+    },
+    {
+      "address": "0x27Ffed7E5926Fb2795fC85aAab558243F280A8a2",
+      "chainId": 1,
+      "name": "Punk-Female",
+      "symbol": "PUNK-FEMALE",
+      "decimals": 18,
+      "logoURI": "https://blog.nftx.org/content/images/2021/02/icon-punk-female-40.png"
+    },
+    {
+      "address": "0x49706a576bb823cdE3180C930F9947d59e2deD4D",
+      "chainId": 1,
+      "name": "Punk-Attr-4",
+      "symbol": "PUNK-ATTR-4",
+      "decimals": 18,
+      "logoURI": "https://blog.nftx.org/content/images/2021/02/icon-punk-attr-4-40.png"
+    },
+    {
+      "address": "0xAB9c92A9337A1494C6D545E48187Fa37144403c8",
+      "chainId": 1,
+      "name": "Punk-Attr-5",
+      "symbol": "PUNK-ATTR-5",
+      "decimals": 18,
+      "logoURI": "https://blog.nftx.org/content/images/2021/02/icon-punk-attr-5-40.png"
+    },
+    {
+      "address": "0xF18ade29a225fAa555e475eE01F9Eb66eb4a3a74",
+      "chainId": 1,
+      "name": "Punk-Zombie",
+      "symbol": "PUNK-ZOMBIE",
+      "decimals": 18,
+      "logoURI": "https://blog.nftx.org/content/images/2021/02/icon-punk-zombies-40.png"
     }
   ],
   "version": {
-    "major": 43,
+    "major": 44,
     "minor": 0,
     "patch": 0
   }
