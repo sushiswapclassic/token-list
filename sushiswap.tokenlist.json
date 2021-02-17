@@ -814,7 +814,7 @@
       "name": "Punk",
       "symbol": "PUNK",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/sushiswapclassic/token-list/master/assets/Punk_Icon_Big.png"
+      "logoURI": "https://blog.nftx.org/content/images/2021/02/icon-cryptopunks-40-1.png"
     },
     {
       "address": "0x0000000000095413afC295d19EDeb1Ad7B71c952",
@@ -1186,7 +1186,7 @@
     }
   ],
   "version": {
-    "major": 44,
+    "major": 45,
     "minor": 0,
     "patch": 0
   }
