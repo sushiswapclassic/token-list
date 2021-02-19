@@ -1223,10 +1223,18 @@
       "symbol": "ONX",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/sushiswapclassic/token-list/master/assets/onx.png"
+    },
+    {
+      "address": "0x6399C842dD2bE3dE30BF99Bc7D1bBF6Fa3650E70",
+      "chainId": 1,
+      "name": "Premia",
+      "symbol": "PREMIA",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x6399C842dD2bE3dE30BF99Bc7D1bBF6Fa3650E70/logo.png"
     }
   ],
   "version": {
-    "major": 48,
+    "major": 49,
     "minor": 0,
     "patch": 0
   }
