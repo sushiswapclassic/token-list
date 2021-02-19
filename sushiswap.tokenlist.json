@@ -1215,10 +1215,18 @@
       "symbol": "jGBP",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x7409856CAE628f5d578B285B45669b36E7005283/logo.png"
+    },
+    {
+      "address": "0xE0aD1806Fd3E7edF6FF52Fdb822432e847411033",
+      "chainId": 1,
+      "name": "OnX.finance",
+      "symbol": "ONX",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/sushiswapclassic/token-list/master/assets/onx.png"
     }
   ],
   "version": {
-    "major": 47,
+    "major": 48,
     "minor": 0,
     "patch": 0
   }
