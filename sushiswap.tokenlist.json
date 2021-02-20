@@ -1239,10 +1239,18 @@
       "symbol": "WSCRT",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/13767/small/Secret_S_Black_Coingecko.png?1611667298"
+    },
+    {
+      "address": "0x674C6Ad92Fd080e4004b2312b45f796a192D27a0",
+      "chainId": 1,
+      "name": "Neutrino USD",
+      "symbol": "USDN",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/10117/small/78GWcZu.png?1600845716"
     }
   ],
   "version": {
-    "major": 50,
+    "major": 51,
     "minor": 0,
     "patch": 0
   }
