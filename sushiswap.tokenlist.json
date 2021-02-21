@@ -1249,7 +1249,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/10117/small/78GWcZu.png?1600845716"
     },
     {
-      "address": "0x5245C0249e5EEB2A0838266800471Fd32Adb1089"
+      "address": "0x5245C0249e5EEB2A0838266800471Fd32Adb1089",
       "chainId": 1,
       "name": "Raydium",
       "symbol": "RAY",
@@ -1258,7 +1258,7 @@
     },
   ],
   "version": {
-    "major": 53,
+    "major": 54,
     "minor": 0,
     "patch": 0
   }
