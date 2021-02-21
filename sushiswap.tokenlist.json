@@ -1247,10 +1247,18 @@
       "symbol": "USDN",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/10117/small/78GWcZu.png?1600845716"
-    }
+    },
+    {
+      "address": "0x5245C0249e5EEB2A0838266800471Fd32Adb1089",
+      "chainId": 1,
+      "name": "Raydium",
+      "symbol": "RAY",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/13928/small/PSigc4ie_400x400.jpg?1612875614"
+    },
   ],
   "version": {
-    "major": 51,
+    "major": 52,
     "minor": 0,
     "patch": 0
   }
