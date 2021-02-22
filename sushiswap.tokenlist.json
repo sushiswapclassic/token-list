@@ -1279,10 +1279,18 @@
       "symbol": "DAO",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/sushiswapclassic/token-list/master/assets/0x0f51bb10119727a7e5ea3538074fb341f56b09ad.png"
+    },
+    {
+      "address": "0x9D79d5B61De59D882ce90125b18F74af650acB93",
+      "chainId": 1,
+      "name": "Neutrino System Base Token",
+      "symbol": "NSBT",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/sushiswapclassic/token-list/master/assets/2021-02-21%2019.49.17.jpg"
     }
   ],
   "version": {
-    "major": 56,
+    "major": 57,
     "minor": 0,
     "patch": 0
   }
