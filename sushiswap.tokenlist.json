@@ -1271,10 +1271,18 @@
       "symbol": "COL",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/iearn-finance/yearn-assets/master/icons/tokens/0xC76FB75950536d98FA62ea968E1D6B45ffea2A55/logo-128.png"
+    },
+    {
+      "address": "0x0f51bb10119727a7e5eA3538074fb341F56B09Ad",
+      "chainId": 1,
+      "name": "DAO Maker",
+      "symbol": "DAO",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/sushiswapclassic/token-list/master/assets/0x0f51bb10119727a7e5ea3538074fb341f56b09ad.png"
     }
   ],
   "version": {
-    "major": 55,
+    "major": 56,
     "minor": 0,
     "patch": 0
   }
