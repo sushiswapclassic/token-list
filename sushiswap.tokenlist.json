@@ -782,7 +782,7 @@
       "name": "NFTX",
       "symbol": "NFTX",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/13574/small/nftx.png?1609880030"
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x87d73E916D7057945c9BcD8cdd94e42A6F47f776/logo.png"
     },
     {
       "address": "0x3449FC1Cd036255BA1EB19d65fF4BA2b8903A69a",
@@ -1362,7 +1362,7 @@
     }
   ],
   "version": {
-    "major": 64,
+    "major": 65,
     "minor": 0,
     "patch": 0
   }
