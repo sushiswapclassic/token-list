@@ -1351,10 +1351,18 @@
       "symbol": "DEXTF",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/12634/small/DEXTFiconNEGATIVE-page-001.jpg?1601349042"
+    },
+    {
+      "address": "0x888888435FDe8e7d4c54cAb67f206e4199454c60",
+      "chainId": 1,
+      "name": "DFX",
+      "symbol": "DFX",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/sushiswapclassic/token-list/master/assets/DFX%20-%20Final%20Logo%20(solo).png"
     }
   ],
   "version": {
-    "major": 63,
+    "major": 64,
     "minor": 0,
     "patch": 0
   }
