@@ -1359,10 +1359,18 @@
       "symbol": "DFX",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/sushiswapclassic/token-list/master/assets/DFX%20-%20Final%20Logo%20(solo).png"
+    },
+    {
+      "address": "0xdBdb4d16EdA451D0503b854CF79D55697F90c8DF",
+      "chainId": 1,
+      "name": "Alchemix",
+      "symbol": "ALCX",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/sushiswapclassic/token-list/master/assets/alchemix.jpg"
     }
   ],
   "version": {
-    "major": 65,
+    "major": 66,
     "minor": 0,
     "patch": 0
   }
