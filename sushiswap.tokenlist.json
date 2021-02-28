@@ -1302,7 +1302,7 @@
       "name": "Offshift",
       "symbol": "XFT",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/11977/small/offshift_logo.png?1596597308"
+      "logoURI": "https://raw.githubusercontent.com/sushiswapclassic/token-list/master/assets/xft_logo.png"
     },
     {
       "address": "0xE41d2489571d322189246DaFA5ebDe1F4699F498",
@@ -1370,7 +1370,7 @@
     }
   ],
   "version": {
-    "major": 66,
+    "major": 67,
     "minor": 0,
     "patch": 0
   }
