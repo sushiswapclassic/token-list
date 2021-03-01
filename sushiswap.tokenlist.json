@@ -1367,10 +1367,18 @@
       "symbol": "ALCX",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/sushiswapclassic/token-list/master/assets/alchemix.jpg"
+    },
+    {
+      "address": "0x0cEC1A9154Ff802e7934Fc916Ed7Ca50bDE6844e",
+      "chainId": 1,
+      "name": "PoolTogether",
+      "symbol": "POOL",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/14003/small/PoolTogether.png?1613585632"
     }
   ],
   "version": {
-    "major": 67,
+    "major": 68,
     "minor": 0,
     "patch": 0
   }
