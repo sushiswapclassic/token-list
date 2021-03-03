@@ -1375,10 +1375,18 @@
       "symbol": "POOL",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/14003/small/PoolTogether.png?1613585632"
+    },
+    {
+      "address": "0x2aECCB42482cc64E087b6D2e5Da39f5A7A7001f8",
+      "chainId": 1,
+      "name": "RULER",
+      "symbol": "RULER",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x2aECCB42482cc64E087b6D2e5Da39f5A7A7001f8/logo.png"
     }
   ],
   "version": {
-    "major": 69,
+    "major": 70,
     "minor": 0,
     "patch": 0
   }
