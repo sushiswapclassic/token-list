@@ -873,7 +873,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/13748/small/armor.png?1611425846"
     },
     {
-      "address": "0x43632E3448cd47440fEE797258081414D91A58cE",
+      "address": "0x1337DEF18C680aF1f9f45cBcab6309562975b1dD",
       "chainId": 1,
       "name": "Armor NXM",
       "symbol": "arNXM",
@@ -1378,7 +1378,7 @@
     }
   ],
   "version": {
-    "major": 68,
+    "major": 69,
     "minor": 0,
     "patch": 0
   }
