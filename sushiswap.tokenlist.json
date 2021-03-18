@@ -1463,10 +1463,18 @@
     "symbol": "UMAc35-0421",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/10951/small/UMA.png?1586307916"
+  },
+  {
+    "address": "0x2aA5cE395b00CC486159aDbDD97c55b535CF2cf9",
+    "chainId": 1,
+    "name": "Elastic Governance",
+    "symbol": "EGT",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswapclassic/token-list/master/assets/egt_logo.png"
   }
   ],
   "version": {
-    "major": 72,
+    "major": 73,
     "minor": 0,
     "patch": 0
   }
