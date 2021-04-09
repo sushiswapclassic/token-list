@@ -203,7 +203,7 @@
     {
       "address": "0x16c52CeeCE2ed57dAd87319D91B5e3637d50aFa4",
       "chainId": 1,
-      "name": "TCAP Token",
+      "name": "Total Crypto Market Cap Token",
       "symbol": "TCAP",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/sushiswapclassic/token-list/master/assets/tcap-logo.svg"
