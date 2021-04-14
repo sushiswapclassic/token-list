@@ -726,7 +726,7 @@
       "name": "Alpha Finance",
       "symbol": "ALPHA",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/12738/small/ec7316b1-8bd9-4a76-8a1e-2d5c0b287d2f.jpg?1602306985"
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xa1faa113cbE53436Df28FF0aEe54275c13B40975/logo.png"
     },
     {
       "address": "0x7cA4408137eb639570F8E647d9bD7B7E8717514A",
@@ -1658,7 +1658,7 @@
   }
   ],
   "version": {
-    "major": 83,
+    "major": 84,
     "minor": 0,
     "patch": 0
   }
