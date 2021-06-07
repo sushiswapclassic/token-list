@@ -1663,6 +1663,14 @@
     "symbol": "stXYM",
     "decimals": 6,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x8F5E78888f8933Ed676a62bB6B58a4b279aBE408/logo.png"
+  },
+  {
+    "address": "0x618679dF9EfCd19694BB1daa8D00718Eacfa2883",
+    "chainId": 1,
+    "name": "XYZ Governance Token",
+    "symbol": "XYZ",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/UniverseXYZ/token-list/master/assets/universe_logo.png"
   }
   ],
   "version": {
